@@ -10,8 +10,7 @@ body{
     font-size: 24px;
 }
 .aboutMe{
-    height: 300px;
-    background-color: blueviolet;
+    width:100%;
     margin-bottom: 20px;
 }
 .meDescription{
@@ -22,15 +21,17 @@ body{
     color:black;
 }
 .projectImage{
-    height: 550px;
+    width: 100%;
     margin-bottom: 20px;
-    background-color: blueviolet;
 }
-
 .smallProj{
     padding: 10px 10px 0px 10px;
     background-color: darkblue;
 }
 .contactMe{
-    background-color: darkblue;
+    text-align: center;
+    font-size: 48px;
+    padding-left: 200px;
+    padding-right: 200px;
+    background-color: blueviolet;
 }
