@@ -28,10 +28,13 @@ body{
     padding: 10px 10px 0px 10px;
     background-color: darkblue;
 }
-.contactMe{
+.smallProjImg{
+    width: 100%;
+}
+.borders{
+    margin-bottom: 20px;
     text-align: center;
     font-size: 48px;
-    padding-left: 200px;
-    padding-right: 200px;
-    background-color: blueviolet;
+    background-color: rebeccapurple;
+    border: 5px solid gold;
 }
